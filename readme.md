@@ -5,11 +5,6 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Kali Linux](https://img.shields.io/badge/Kali-Linux-557C94?logo=kalilinux)](https://www.kali.org/)
 
-> 🎯 **Target**: Menjadi juara di seleksi pertama LKS Cyber Security 2026  
-> 📅 **Timeline**: 31 Oktober - 1 November 2025  
-> ⏱️ **Durasi**: 5 Jam Total (Online + Onsite)  
-> 💯 **Bobot**: CTF 70% | PoC Report 30%
-
 ---
 
 ## 📑 Table of Contents
@@ -29,15 +24,6 @@
 ---
 
 ## 📋 Competition Overview
-
-### Schedule
-
-| Date | Module | Time | Location |
-|------|--------|------|----------|
-| **29 Oktober 2025** | Technical Meeting | 19:30 - Selesai | Online |
-| **30 Oktober 2025** | Warming Up | TBA | - |
-| **31 Oktober 2025** | Forensic & Rev Eng | 19:30 - 22:00 | Online |
-| **1 November 2025** | Web, PWN, Crypto | 13:00 - 15:30 | Onsite (WS SIJA) |
 
 ### Categories Coverage
 
@@ -2703,86 +2689,6 @@ Remember:
 "Hacking is not about breaking things, 
  it's about understanding how they work"
 - Anonymous
-```
-
----
-
-## 🎯 TL;DR - Ultra Quick Start
-
-```bash
-# 1. Install everything
-git clone https://gist.github.com/your-setup-script
-chmod +x LKS-CTF-Setup.sh
-./LKS-CTF-Setup.sh
-
-# 2. Essential bookmarks
-https://gchq.github.io/CyberChef/  # Multi-tool
-https://www.dcode.fr/              # Ciphers
-https://crackstation.net/          # Hashes
-https://jwt.io/                    # JWT
-
-# 3. First actions on any challenge
-strings file.* | grep -i flag
-exiftool file.*
-file file.*
-
-# 4. When stuck
-- Google it
-- Check writeups
-- Ask teammate
-- Try another challenge
-
-# 5. Don't forget
-- Screenshot everything
-- Document for PoC (30%!)
-- Submit flags correctly
-- TIME MANAGEMENT!
-
-🚀 NOW GO WIN THAT COMPETITION! 🏆
-```
-
----
-
-## 📞 Last Minute Reminders
-
-```
-⏰ H-1 (28 Oktober):
-- Backup this README offline
-- Download all tools
-- Test everything works
-- Get good sleep!
-
-🎯 Competition Day:
-- Arrive early (check location)
-- Bring charger + mouse
-- Stay hydrated
-- Trust your preparation
-
-💡 During Challenges:
-- Read EVERYTHING carefully
-- Low-hanging fruits first
-- Time-box stuck challenges
-- DOCUMENT AS YOU GO!
-
-📝 PoC Reports:
-- Start writing immediately
-- Screenshots are evidence
-- Show understanding
-- 30% of your score!
-
-🎉 After Competition:
-- Review solutions
-- Learn from mistakes
-- Connect with other teams
-- Plan for next CTF!
-
-════════════════════════════════════════════════
-
-        🏆 GOOD LUCK, HACKERS! 🏆
-        
-    May the flags be with you! 🚩
-
-════════════════════════════════════════════════
 ```
 
 ---
